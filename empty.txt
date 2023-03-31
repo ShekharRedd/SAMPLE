@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+hello wor
+ld
+
+sds
+asdg
+sdf
+=======
+hello world
+
+aeweferw
+i
+sefs
+saefs
+serf
+>>>>>>> nare
+
