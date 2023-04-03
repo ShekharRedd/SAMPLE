@@ -6,5 +6,9 @@
 "hello iam bat.txt third modified"
 
 
+<<<<<<< HEAD
 "hi man i am virat and rohitsharma"
 
+=======
+""i am commited in remote data"
+>>>>>>> 0f0b73c5f3af100843447560722b433613fc8f78
