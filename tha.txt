@@ -1,0 +1,1 @@
+print("these is thanish hi good morning my frds")
