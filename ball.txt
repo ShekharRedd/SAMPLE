@@ -5,6 +5,11 @@
 virat kohli
 rohit sharma
 
+<<<<<<< HEAD
 dhoni
 
 maxwel
+=======
+
+dhoni
+>>>>>>> 2dbe2f7d37c0e897e833cbff042c26c92cba2a00
