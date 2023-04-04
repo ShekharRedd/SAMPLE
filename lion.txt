@@ -1,7 +1,26 @@
+<<<<<<< HEAD
 "hello iam lion.txt" 
 
 
 
 asdac
 sdfv
+=======
+"hello iam lion.txt"
+
+
+
+"this is changed by master "
+
+
+
+
+"shekhar made this changes"
+
+
+
+
+
+"third nare chanhes the sentence"
+>>>>>>> 0d43270fedba2dceb3c4a84575cd2777d33dadf4
 
