@@ -1,6 +1,16 @@
-"hello iam lion.txt"
+from flask import Flask
 
+t = Flask(__name__)
 
+@t.route('/')
+def hello():
+    return 'Hello, World!'
 
-"this is changed by master "
+    
+
+if __name__ == '__main__':
+    t.run()
+
+def fun():
+    return "sd"
 
