@@ -1,18 +1,11 @@
-<<<<<<< HEAD
-=======
-"hello iam lion.txt"
+from flask import Flask
 
+t = Flask(__name__)
 
+@t.route('/')
+def hello():
+    return 'Hello, World!'
 
-"this is changed by master "
+if __name__ == '__main__':
+    t.run()
 
-
-
-
-"shekhar made this changes"
-
-
-
-
-
->>>>>>> 2cd51f84fb3d3f8c9f49ef8d681ea43dd61486b2
