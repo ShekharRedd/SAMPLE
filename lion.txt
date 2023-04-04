@@ -1,5 +1,5 @@
 from flask import Flask
-<<<<<<< HEAD
+
 
 t = Flask(__name__)
 
@@ -16,17 +16,4 @@ def fun():
     return "sd"
 
 
-
-=======
->>>>>>> 65e04cb767b48d4ebecaab878db7baac0742fa23
-
-t = Flask(__name__)
-
-@t.route('/')
-def hello():
-    return 'Hello, World!'
-    
-
-if __name__ == '__main__':
-    t.run()
 
